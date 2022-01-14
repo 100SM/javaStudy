@@ -1,4 +1,4 @@
-package Prob4;
+package prob4;
 
 public class Prob4 {
 
