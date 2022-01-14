@@ -23,5 +23,5 @@ public class Prob5 {
 			}
 			cnt = 0;
 		}
-	}
+	} 
 }

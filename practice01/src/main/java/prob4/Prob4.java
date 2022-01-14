@@ -20,4 +20,4 @@ public class Prob4 {
 		}
 		scanner.close();
 	}
-}
+} 
